@@ -1,7 +1,7 @@
 - name: log into docker hub registy
   docker_login:
-    username: 123anz
-    password: 181jmt1381
+    username: fatma98
+    password: 08022021F
 - name: Tag and push to docker hub
   docker_image:
     name: devops
