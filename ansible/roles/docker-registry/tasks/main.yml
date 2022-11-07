@@ -5,6 +5,6 @@
 - name: Tag and push to docker hub
   docker_image:
     name: devops
-    repository: 123anz/devops
+    repository: fatma98/devops
     push: yes
     source: local
